@@ -1,8 +1,7 @@
 # Clemnp
 
 Python script for simple now playing data from clementine to be output onto clipboard.  
-Information is displayed as:
-np: <artist> - <title>
+Information is displayed as: "#np: [artist] - [title]"
 
 ## Required 
 * pyperclip
